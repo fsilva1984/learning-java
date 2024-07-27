@@ -20,7 +20,7 @@ public class VariableDeclaration {
     System.out.println(negativePatternList);
 
     // what the variable represents
-    String inputDate = "18/042023";
+    String inputDate = "18/04/2023";
     String fullName = "Flavio F Silva";
     System.out.println(inputDate);
     System.out.println(fullName);
