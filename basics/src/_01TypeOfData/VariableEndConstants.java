@@ -1,4 +1,4 @@
-package _01typeOfData;
+package _01TypeOfData;
 
 public class VariableEndConstants {
   public static void main(String[] args) {
