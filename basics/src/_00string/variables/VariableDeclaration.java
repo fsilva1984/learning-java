@@ -1,4 +1,4 @@
-package _00String.variables;
+package _00string.variables;
 
 public class VariableDeclaration {
   public static void main(String[] args) {

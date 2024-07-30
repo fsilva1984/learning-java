@@ -1,4 +1,4 @@
-package _02Operators;
+package _02operators;
 
 public class LogicalOperators {
 public static void main(String[] args) {

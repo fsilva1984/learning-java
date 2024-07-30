@@ -1,4 +1,4 @@
-package _02Operators;
+package _02operators;
 
 import java.lang.Math;
 

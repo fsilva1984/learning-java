@@ -1,4 +1,4 @@
-package _00String.methodOfStrings;
+package _00string.methodOfStrings;
 
 public class MethodConcat {
   public static void main(String[] args) {
