@@ -19,5 +19,6 @@ public class MethodScanner {
 
     String info = String.format("\tO aluno %s\n\ttem %d anos\n\te mede %.2f de altura", name, age, height);
     System.out.println(info);
+    scanner.close();
   }
 }

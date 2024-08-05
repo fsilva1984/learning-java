@@ -1,6 +1,6 @@
 ## Projeto DIO
 
-Contador
+Here are the small projects to consolidate learning of the Java language.
 
 ## Folder Structure
 

@@ -1,6 +1,6 @@
-## Project internet Bank
+## Java Basic 2
 
-Internet Banking Project, Claro - Java with Spring Boot, customer registration via terminal.
+Continuity of learning about the basic structures of language
 
 ## Folder Structure
 

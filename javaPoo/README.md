@@ -1,6 +1,6 @@
-## Nano Projects
+## Java POO: Programming Oriented Object 
 
-Small projects to practice
+Here we will learn important concepts of object-oriented Java.
 
 ## Folder Structure
 
