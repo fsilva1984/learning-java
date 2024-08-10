@@ -1,5 +1,5 @@
 # learning-java
 ### java study repository :books:
-https://img.shields.io/open-vsx/dt/:namespace/21
+<img alt="Open VSX Downloads" src="https://img.shields.io/open-vsx/dt/:namespace/21">
 
 
