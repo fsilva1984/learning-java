@@ -6,7 +6,7 @@
  Em resumo quando precisamos criar um tipo generico de objeto podemos utilizalo.
  um caso bem comum onde se vê o diamond, é na tipagem das Listas, exemplo de lista sem o generic
 
- List listaSemGeneric = new ArrayList();, e a lista com o generic List**<**Integer**>** listaComGeneric = new ArrayList();
+ List listaSemGeneric = new ArrayList();, e a lista com o generic List**<Integer>** listaComGeneric = new ArrayList();
  no primeiro exemplo temos uma lista que pode conter variados tipos, enquanto que no segundo exeplo, teremos uma lista pre definida que suporta apenas numeros inteiros.
 
 ## Folder Structure
