@@ -1,5 +1,4 @@
 # learning-java
-### java study repository :books:
-![Badge](label=https://github.com/fsilva1984/learning-java/blob/main/img/java_logo_icon_168609.png&message=v21&color=blue&style=for-the-badge&logo=JAVA)
-
+### Java study repository :books:
+![Badge](https://img.shields.io/static/v1?label=JAVA&message=Version:21&color=tomato&style=for-the-badge&logo=☕)
 
