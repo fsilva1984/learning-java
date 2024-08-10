@@ -1,5 +1,4 @@
 # learning-java
-### java study repository :books:
-<img alt="Open VSX Downloads" src="https://img.shields.io/open-vsx/dt/:namespace/21">
-
+### Java study repository :books:
+![Badge](https://img.shields.io/static/v1?label=JAVA&message=Version:21&color=tomato&style=for-the-badge&logo=&#9749;)
 
