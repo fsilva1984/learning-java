@@ -1,5 +1,5 @@
 
-## Projeto Iphone UML: e imprlements interface
+## Projeto Iphone UML: e implements interface
 
 #  1 - Planejar em UML as funcionalidades de um iphone.
   
