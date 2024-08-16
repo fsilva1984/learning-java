@@ -1,4 +1,4 @@
-package collections.list;
+package collections.list.toDoList;
 
 public class Tasks {
   private String description;
