@@ -47,7 +47,7 @@ public class ToLookFor {
 
     if (!bookCatalog.isEmpty()) {
       for (BookCatalog book : bookCatalog) {
-        if (book.getAge() >= startOfBreak && book.getAge() <= startOfBreak) {
+        if (startOfBreak <= book.getAge() && startOfBreak >= book.getAge()) {
           bookRelease.add(book);
         }
       }
@@ -78,8 +78,6 @@ public class ToLookFor {
         }
       }
     }
-
-    bookCatalog.removeAll(booksToRemove);
     return booksToRemove;
   }
 
