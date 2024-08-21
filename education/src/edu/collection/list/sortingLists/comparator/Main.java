@@ -3,8 +3,6 @@ package edu.collection.list.sortingLists.comparator;
 import java.util.Arrays;
 import java.util.Comparator;
 
-import edu.collection.list.sortingLists.comparable.Person;
-
 public class Main {
 
 	public static void main(String[] args) {
